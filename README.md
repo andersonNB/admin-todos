@@ -11,7 +11,7 @@ docker compose up -d
 
 # Prisma commands
 ```
-npx prisma init
+npx prisma init -> iniciamos el proceso de prisma
 npx prisma migrate dev -> para pasar nuestro modelos a la bd
 npx prisma generate -> cliente de prisma para hacer manipulaciones a la bd
 ```
